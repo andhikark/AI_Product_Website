@@ -8,7 +8,8 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    java,
+    python,
     tailwind,
     nodejs,
     mongodb,
@@ -77,12 +78,16 @@ import {
       icon: typescript,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+      name: "Java",
+      icon: java,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
     },
     {
       name: "Tailwind CSS",
