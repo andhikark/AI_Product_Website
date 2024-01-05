@@ -27,10 +27,14 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import kmutt from "./company/kmutt.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import questDo from "./questDo.png";
+import Harmoni from "./Harmoni.png";
+import glucAi from "./glucAi.png";
 
 export {
   logo,
@@ -58,8 +62,12 @@ export {
   meta,
   shopify,
   starbucks,
+  kmutt,
   tesla,
   carrent,
   jobit,
   tripguide,
+  questDo,
+  Harmoni,
+  glucAi
 };

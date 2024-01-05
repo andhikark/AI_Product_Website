@@ -1,4 +1,3 @@
-import React from "react";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
@@ -48,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm an enthusiastic and creative student with a passion for programming, 
+        particularly in data science and software engineering. My confidence, adaptability, 
+        and strong leadership skills make me a fast learner who thrives on challenges. 
+        Constantly seeking new opportunities to explore, I bring a dynamic approach to the ever-evolving world of technology. 
+        Let's embark on this exciting journey of learning and innovation together!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
